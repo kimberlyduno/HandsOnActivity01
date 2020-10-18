@@ -1,0 +1,12 @@
+C:\Users\Kent Duno\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+C:\Users\Kent Duno\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+C:\Users\Kent Duno\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+C:\Users\Kent Duno\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\HandsOnActivity01.csprojAssemblyReference.cache
+C:\Users\Kent Duno\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmRegistration.resources
+C:\Users\Kent Duno\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmConfirmation.resources
+C:\Users\Kent Duno\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmAddProducts.resources
+C:\Users\Kent Duno\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+C:\Users\Kent Duno\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\HandsOnActivity01.csproj.GenerateResource.cache
+C:\Users\Kent Duno\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\HandsOnActivity01.csproj.CoreCompileInputs.cache
+C:\Users\Kent Duno\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+C:\Users\Kent Duno\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.pdb
